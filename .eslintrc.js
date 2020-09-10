@@ -5,4 +5,6 @@ config.globals = {
   require: 'readonly'
 };
 
+config.plugins = ['yaml'];
+
 module.exports = config;
