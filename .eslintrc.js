@@ -5,4 +5,4 @@ config.globals = {
   require: 'readonly'
 };
 
-module.exports = baseConfig;
+module.exports = config;
