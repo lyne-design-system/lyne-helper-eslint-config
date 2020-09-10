@@ -1,6 +1,6 @@
-const baseConfig = require('./index');
+const config = require('./index');
 
-baseConfig.globals = {
+config.globals = {
   module: 'readonly',
   require: 'readonly'
 };
