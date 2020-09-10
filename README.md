@@ -13,6 +13,19 @@ npm install --save-dev lyne-helper-eslint-config
 
 ## Usage
 
+Require the base configuration:
+```
+const baseConfig = require('lyne-helper-eslint-config');
+```
+
+Then expand/change it to your liking. e.g.:
+
+```
+baseConfig.globals = {
+  module: 'readonly',
+  require: 'readonly'
+};
+```
 
 ## Development
 
@@ -21,3 +34,5 @@ npm install --save-dev lyne-helper-eslint-config
 Please follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification to make sure we can automatically determine the next release version if necessary.
 
 ## Deployment
+
+The package is automatically published to npm after successfull build via TravisCI
