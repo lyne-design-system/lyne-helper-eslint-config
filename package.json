@@ -2,7 +2,7 @@
   "name": "lyne-helper-eslint-config",
   "version": "1.0.0",
   "description": "Base ESLint configuration for all Lyne Repos",
-  "main": "index.js",
+  "main": "dist/index.js",
   "dependencies": {},
   "devDependencies": {
     "@commitlint/cli": "^9.0.1",
@@ -10,16 +10,20 @@
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/exec": "^5.0.0",
     "@semantic-release/git": "^9.0.0",
+    "clean-webpack-plugin": "~3.0.0",
     "eslint": "^7.0.0",
     "eslint-plugin-yaml": "^0.3.0",
     "husky": "^4.2.5",
     "semantic-release": "^17.0.8",
-    "semantic-release-slack-bot": "^1.6.2"
+    "semantic-release-slack-bot": "^1.6.2",
+    "webpack": "~4.44.1",
+    "webpack-cli": "~3.3.12"
   },
   "files": [
-    "index.js"
+    "dist/"
   ],
   "scripts": {
+    "build": "webpack",
     "lint": "npm run lint:yml && npm run lint:js",
     "lint:js": "eslint ./ --ext .js",
     "lint:yml": "eslint ./ --ext .yml,.yaml",
