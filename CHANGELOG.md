@@ -1,3 +1,13 @@
+## [1.0.2](https://github.com/lyne-design-system/lyne-helper-eslint-config/compare/v1.0.1...v1.0.2) (2020-09-13)
+
+
+### Bug Fixes
+
+* add dist do gitignore ([da0b9ac](https://github.com/lyne-design-system/lyne-helper-eslint-config/commit/da0b9aca69a34c356c40bdd56ea2137393ad7189))
+* fake commit to trigger release ([1bbd31f](https://github.com/lyne-design-system/lyne-helper-eslint-config/commit/1bbd31f36c0597867aad55de4465449040394e01))
+* use correct extension ([f0cb19e](https://github.com/lyne-design-system/lyne-helper-eslint-config/commit/f0cb19e23614ee68b44268ed8f389b29f0204d02))
+* use webpack ([4d40d53](https://github.com/lyne-design-system/lyne-helper-eslint-config/commit/4d40d53d52c62b6797a26cf1672a3c7d7451f1ad))
+
 ## [1.0.1](https://github.com/lyne-design-system/lyne-helper-eslint-config/compare/v1.0.0...v1.0.1) (2020-09-10)
 
 
