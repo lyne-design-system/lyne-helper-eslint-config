@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/lyne-design-system/lyne-helper-eslint-config/compare/v1.0.0...v1.0.1) (2020-09-10)
+
+
+### Bug Fixes
+
+* move yml plugin from baseConfig to eslint config ([6fb7982](https://github.com/lyne-design-system/lyne-helper-eslint-config/commit/6fb798292155a347c16bcaf57d3b668fd8144279))
+
 # 1.0.0 (2020-09-10)
 
 
