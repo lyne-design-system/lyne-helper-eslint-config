@@ -1,3 +1,11 @@
+## [1.0.4](https://github.com/lyne-design-system/lyne-helper-eslint-config/compare/v1.0.3...v1.0.4) (2020-10-27)
+
+
+### Bug Fixes
+
+* fake commit to test CI ([d6a31f1](https://github.com/lyne-design-system/lyne-helper-eslint-config/commit/d6a31f1e811986fbb2f806b4ad68f31c3be1069b))
+* fake commit to trigger release ([4f09e62](https://github.com/lyne-design-system/lyne-helper-eslint-config/commit/4f09e62354b762aa3bfbc1384e9ff111420615ab))
+
 ## [1.0.3](https://github.com/lyne-design-system/lyne-helper-eslint-config/compare/v1.0.2...v1.0.3) (2020-10-09)
 
 
