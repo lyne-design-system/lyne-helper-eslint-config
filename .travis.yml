@@ -4,6 +4,9 @@ group: edge
 language: node_js
 arch: arm64-graviton2
 virt: lxd
+compiler:
+  - clang
+  - gcc
 notifications:
   slack:
     template:
