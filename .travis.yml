@@ -3,6 +3,7 @@ dist: focal
 group: edge
 language: node_js
 arch: arm64-graviton2
+compiler: clang
 notifications:
   slack:
     template:
