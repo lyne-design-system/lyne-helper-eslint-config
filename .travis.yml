@@ -24,4 +24,4 @@ jobs:
       - npm run build
 
       after_success:
-      - npm run semantic-release
+      - npm run semantic-release || travis_terminate 1
