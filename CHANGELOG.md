@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/lyne-design-system/lyne-helper-eslint-config/compare/v1.0.4...v1.0.5) (2021-09-02)
+
+
+### Bug Fixes
+
+* ignore declaration sort ([f126a3f](https://github.com/lyne-design-system/lyne-helper-eslint-config/commit/f126a3fae769f3b1f5adf78fc3cc559ef5a53e03))
+
 ## [1.0.4](https://github.com/lyne-design-system/lyne-helper-eslint-config/compare/v1.0.3...v1.0.4) (2020-10-27)
 
 
