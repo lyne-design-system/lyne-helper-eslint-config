@@ -436,7 +436,7 @@ module.exports = {
       'error',
       {
         'ignoreCase': true,
-        'ignoreDeclarationSort': false,
+        'ignoreDeclarationSort': true,
         'ignoreMemberSort': false,
         'memberSyntaxSortOrder': [
           'none',
