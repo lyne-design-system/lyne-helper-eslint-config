@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/lyne-design-system/lyne-helper-eslint-config/compare/v1.0.6...v1.0.7) (2022-05-20)
+
+
+### Bug Fixes
+
+* allow stencil @Listen ([b668329](https://github.com/lyne-design-system/lyne-helper-eslint-config/commit/b668329ccdd1d23e27ddd1aaafeb914f6061b2a6))
+
 ## [1.0.6](https://github.com/lyne-design-system/lyne-helper-eslint-config/compare/v1.0.5...v1.0.6) (2022-03-22)
 
 
