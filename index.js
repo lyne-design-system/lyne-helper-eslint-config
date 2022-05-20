@@ -268,6 +268,7 @@ module.exports = {
           'Prop',
           'Event',
           'Method',
+          'Listen',
           'State',
           'Element',
           'Watch'
